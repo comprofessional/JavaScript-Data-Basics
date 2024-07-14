@@ -15,7 +15,7 @@ for (let i = 1; i <= 5; i++) {
 
 
 
-let sales=[21, 20, 23, 26];
+let sales=[20, 30, 50, 70];
 
 let totalsales=0;
 
