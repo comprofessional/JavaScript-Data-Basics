@@ -27,3 +27,4 @@ for ( let i=0; i < sales.length; i++)
 }
 
 console.log(totalsales);
+// Program ends here
