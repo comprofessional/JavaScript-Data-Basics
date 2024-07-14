@@ -1,2 +1,0 @@
-user password:123456
-User name is Abc
