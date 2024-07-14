@@ -1,8 +1,8 @@
 console.log("node started");
 
 
-var a=2;
-var b=31;
+var a=5;
+var b=10;
 
 var c=a+b;
 
