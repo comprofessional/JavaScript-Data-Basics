@@ -1,0 +1,2 @@
+git remote set-url --add origin https://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@github.com/comprofessional/JavaScript-Data-Basics.git
+
